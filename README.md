@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptDoom
-- 👀 I’m interested in Game and graphics development
-- 🌱 I’m currently learning C,C++ and Blender
+- 👀 I’m interested in FullStack Development and AI
+- 🌱 I’m currently learning Javascript,Python and related libraries,Frameworks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by mail vaibhavk5k5@gmail.com
 
