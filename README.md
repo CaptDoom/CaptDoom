@@ -1,4 +1,4 @@
-# 👋 Doom here (aka @CaptDoom)
+# 👋 Doom here 
 
 > “I don’t just write code. I build systems that think.”
 
